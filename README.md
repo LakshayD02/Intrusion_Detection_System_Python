@@ -1,8 +1,8 @@
-#Intrusion Detection System (IDS) Using Python and Scapy
+# Intrusion Detection System (IDS) Using Python and Scapy
 
 The Intrusion Detection System (IDS) is designed to monitor network traffic for suspicious activities and potential threats. By analyzing the characteristics of packets flowing through the network, the IDS can identify abnormal patterns, such as unusually large packets or repetitive requests from a single source. Upon detecting such anomalies, the system can take preventive action, such as blocking the suspicious IP addresses.
 
-#Key Features:
+# Key Features:
 
 - Packet Monitoring:
 
